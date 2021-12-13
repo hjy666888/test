@@ -1,0 +1,14 @@
+{
+    "name": "test/tackage",
+    "description": "this a test package.",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sltx",
+            "email": "27224521@qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
