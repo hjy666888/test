@@ -1,7 +1,7 @@
 {
     "name": "hjy/tackage",
     "description": "this a test package.",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
