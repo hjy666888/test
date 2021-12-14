@@ -1,21 +1,14 @@
 {
-    "name": "hjy/tackage",
-    "description": "this a test package.",
+    "name": "hjy/hello",
+    "description": "This is a test file.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "sltx",
-            "email": "27224521@qq.com"
+            "name": "hjy",
+            "email": "2722450520@qq.com"
         }
     ],
     "minimum-stability": "stable",
-    "require": {
-        "firebase/php-jwt": "^5.5"
-    },
-    "autoload": {
-        "psr-4": {
-            "testpackage\\": "src"
-        }
-    }
+    "require": {}
 }
