@@ -9,6 +9,6 @@
             "email": "27224521@qq.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {}
 }
